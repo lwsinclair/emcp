@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/joeymeere-emcp-badge.png)](https://mseep.ai/app/joeymeere-emcp)
+
 # eMCP
 
 <div>
